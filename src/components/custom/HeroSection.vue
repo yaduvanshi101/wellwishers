@@ -34,7 +34,7 @@
                         <Button
                             size="lg"
                             class="group w-full sm:w-auto"
-                            onclick="document.getElementById('features').scrollIntoView({ behavior: 'smooth' })"
+                            onclick="document.getElementById('services').scrollIntoView({ behavior: 'smooth' })"
                         >
                             Our Services
                             <ArrowRight
