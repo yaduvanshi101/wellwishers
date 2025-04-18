@@ -15,21 +15,21 @@ const projects: Project[] = [
         title: "DonorZilla",
         description:
             "A healthcare platform connecting doctors and patients for online appointments, while facilitating blood donation by matching donors with recipients based on proximity and need.",
-        image: "/src/assets/DonorZilla.jpg",
+        image: "/assets/DonorZilla.jpg",
         link: "https://www.donorzilla.com",
     },
     {
         title: "ProFood",
         description:
             "An online restaurant management system where owners can directly deliver food to customers and gather demand insights, helping them understand customer preferences and grow their business.",
-        image: "/src/assets/ProFood.jpg",
+        image: "/assets/ProFood.jpg",
         link: "https://www.profood.com",
     },
     {
         title: "Fresh Daily",
         description:
             "A successful offline bakery brand offering freshly baked goods directly to customers. Known for quality ingredients and artisanal techniques that have built a loyal local customer base.",
-        image: "/src/assets/freshDaily.jpg",
+        image: "/assets/freshDaily.jpg",
     },
 ];
 </script>

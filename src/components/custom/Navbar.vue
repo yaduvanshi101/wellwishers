@@ -1,18 +1,14 @@
 <template>
     <section
-        class="relative flex items-center bg-white py-6 border w-full"
+        class="top-0 z-50 sticky flex items-center bg-white py-6 border w-full"
         id="navbar"
     >
         <div class="mx-auto px-4 md:px-6 lg:px-8 container">
             <nav class="flex justify-between items-center">
                 <div class="flex items-center">
-                    <span>
-                        <img
-                            src="/src/assets/logo.png"
-                            alt="Logo"
-                            class="h-12"
-                        />
-                    </span>
+                    <a href="#hero" class="flex items-center space-x-2">
+                        <img src="/assets/logo.png" alt="Logo" class="h-12" />
+                    </a>
                 </div>
 
                 <!-- Desktop Navigation -->

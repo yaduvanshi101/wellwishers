@@ -68,13 +68,13 @@ const sections: Footerlink[] = [
                 <div class="gap-8 grid grid-cols-2 lg:grid-cols-6">
                     <div class="col-span-2 mb-8 lg:mb-0">
                         <div class="flex items-center space-x-2 mb-4">
-                            <span class="font-bold text-xl">
+                            <a href="#hero" class="font-bold text-xl">
                                 <img
-                                    src="/src/assets/logo.png"
+                                    src="/assets/logo.png"
                                     alt="Logo"
                                     class="invert h-12"
                                 />
-                            </span>
+                            </a>
                         </div>
                         <p class="font-bold">
                             Craft the future with WellWishers.
