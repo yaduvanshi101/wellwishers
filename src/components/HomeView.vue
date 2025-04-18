@@ -4,7 +4,7 @@
         <HeroSection />
         <AboutSection />
         <StatsSection />
-        <FeaturesSection />
+        <ServicesSection />
         <ProjectsSection />
         <TeamSection />
         <ContactSection />
@@ -16,7 +16,7 @@
 import Navbar from "@/components/custom/Navbar.vue";
 import HeroSection from "@/components/custom/HeroSection.vue";
 import AboutSection from "./custom/AboutSection.vue";
-import FeaturesSection from "@/components/custom/FeaturesSection.vue";
+import ServicesSection from "@/components/custom/ServicesSection.vue";
 import StatsSection from "@/components/custom/StatsSection.vue";
 import ContactSection from "@/components/custom/ContactSection.vue";
 import FooterSection from "@/components/custom/FooterSection.vue";

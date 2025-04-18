@@ -64,6 +64,7 @@ const isOpen = ref(false);
 const navigation = [
     {name: "Who We Are", href: "#about"},
     {name: "Success Stories", href: "#stats"},
+    {name: "Our Services", href: "#services"},
     {name: "Portfolio", href: "#works"},
     {name: "Our Experts", href: "#team"},
     {name: "Connect With Us", href: "#contact"},
