@@ -40,9 +40,9 @@ const features = [
         icon: TrendingUp,
     },
     {
-        title: "End-to-End Support",
+        title: "Branded Client Solutions",
         description:
-            "Comprehensive partnership from concept to deployment and beyond, ensuring your digital solutions continue to deliver long-term value.",
+            "Customized branding strategies and promotional campaigns tailored specifically for your business identity, enhancing visibility and creating lasting customer connections.",
         icon: HeartHandshake,
     },
 ];

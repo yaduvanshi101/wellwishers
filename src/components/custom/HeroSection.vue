@@ -31,13 +31,12 @@
                     <div
                         class="flex sm:flex-row flex-col justify-center lg:justify-start gap-3 w-full"
                     >
-                        <Button size="lg" class="group w-full sm:w-auto">
-                            <a
-                                href="#features"
-                                class="transition-transform group-hover:translate-x-0.5 duration-300"
-                            >
-                                Our Services
-                            </a>
+                        <Button
+                            size="lg"
+                            class="group w-full sm:w-auto"
+                            onclick="document.getElementById('features').scrollIntoView({ behavior: 'smooth' })"
+                        >
+                            Our Services
                             <ArrowRight
                                 class="ml-2 size-4 transition-transform group-hover:translate-x-1.5 duration-300"
                             />

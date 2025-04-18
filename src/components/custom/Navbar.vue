@@ -66,9 +66,10 @@ import {Button} from "@/components/ui/button";
 const isOpen = ref(false);
 
 const navigation = [
-    {name: "Success Stories", href: "#stats"},
-    {name: "Our Expertise", href: "#features"},
     {name: "Who We Are", href: "#about"},
+    {name: "Success Stories", href: "#stats"},
+    {name: "Portfolio", href: "#works"},
+    {name: "Our Experts", href: "#team"},
     {name: "Connect With Us", href: "#contact"},
 ];
 </script>

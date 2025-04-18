@@ -15,14 +15,14 @@ interface Stat {
 const statsData: Stat[] = [
     {
         label: "Completed Projects",
-        value: 10,
+        value: 25,
         icon: Users,
         suffix: "+",
         decimals: 0,
     },
     {
         label: "Satisfied Clients",
-        value: 5,
+        value: 15,
         icon: Building2,
         suffix: "+",
         decimals: 0,
