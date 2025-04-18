@@ -61,7 +61,7 @@ const people: Person[] = [
 <template>
     <section
         id="team"
-        class="relative flex items-center bg-white py-8 md:py-16 lg:py-24 w-full"
+        class="relative flex items-center bg-white py-8 md:py-16 lg:py-24 w-full scroll-mt-24"
     >
         <div class="mx-auto px-4 md:px-6 lg:px-8 container">
             <!-- Content -->

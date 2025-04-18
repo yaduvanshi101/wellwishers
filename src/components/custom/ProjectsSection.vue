@@ -35,7 +35,7 @@ const projects: Project[] = [
 </script>
 
 <template>
-    <section id="works" class="bg-white py-12 md:py-20 w-full">
+    <section id="works" class="bg-white py-12 md:py-20 w-full scroll-mt-24">
         <div class="mx-auto px-4 md:px-6 lg:px-8 container">
             <!-- Header -->
             <div class="space-y-4 mb-10 text-center">
