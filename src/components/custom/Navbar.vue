@@ -7,11 +7,7 @@
             <nav class="flex justify-between items-center">
                 <div class="flex items-center">
                     <span>
-                        <img
-                            src="/src/assets/logo.png"
-                            alt="Logo"
-                            class="h-12"
-                        />
+                        <img src="/public/logo.png" alt="Logo" class="h-12" />
                     </span>
                 </div>
 

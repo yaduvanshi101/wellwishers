@@ -70,7 +70,7 @@ const sections: Footerlink[] = [
                         <div class="flex items-center space-x-2 mb-4">
                             <span class="font-bold text-xl">
                                 <img
-                                    src="/src/assets/logo.png"
+                                    src="/public/logo.png"
                                     alt="Logo"
                                     class="invert h-12"
                                 />
